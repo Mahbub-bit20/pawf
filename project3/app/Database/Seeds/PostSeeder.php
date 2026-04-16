@@ -13,17 +13,17 @@ class PostSeeder extends Seeder
         [
             'title' => 'Mulai Nyobain Codeigniter',
             'slug' => 'codeigniter-starter',
-            'content' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore aliqua.'
+            'content' => 'Eksplorasi pertama saya menggunakan framework CodeIgniter untuk mempercepat proses pengembangan web. Di sini saya membahas bagaimana struktur MVC (Model-View-Controller) sangat membantu dalam merancang sistem backend yang rapi dan mudah di-maintenance, terutama saat mengelola logika database yang kompleks.'
         ],
         [
             'title' => 'Cara Mudah Buat Hello World',
             'slug' => 'hello-world',
-            'content' => 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.'
+            'content' => 'Tidak hanya sekadar mencetak teks ke layar, saya membagikan langkah-langkah efisien memulai proyek web menggunakan PHP dan Python. Artikel ini membahas persiapan lingkungan pengembangan (environment) hingga menjalankan skrip pertama Anda dengan konfigurasi server yang optimal.'
         ],
         [
             'title' => 'Meetup Komunitas Kelas Koding',
             'slug' => 'meetup-comunity',
-            'content' => 'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis voluptatum deleniti atque corrupti quos.'
+            'content' => 'Berbagi pengalaman saat berdiskusi dengan sesama pengembang di komunitas. Saya percaya bahwa belajar pemrograman tidak hanya soal kode, tapi juga soal bertukar ide tentang tren teknologi terbaru, performa hardware smartphone, hingga bagaimana sistem database skala besar dikelola di dunia industri.'
         ]
         ];
         foreach($posts_data as $data){

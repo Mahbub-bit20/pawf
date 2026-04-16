@@ -26,14 +26,14 @@
 		<div class="row">
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Pertanyaan? (Q)</h5>
-					<p>(A) Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Teknologi apa saja yang digunakan dalam membangun website? (Q)</h5>
+					<p>Saya fokus menggunakan PHP (dengan framework Laravel atau CodeIgniter) dan Python untuk sisi backend. Untuk frontend, saya memastikan tampilan responsif menggunakan CSS dan interaksi dinamis dengan JavaScript.</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Pertanyaan? (Q)</h5>
-					<p>(A) Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Apakah website yang dibuat sudah termasuk optimasi database? (Q)</h5>
+					<p>Tentu. Sebagai seseorang yang gemar melakukan analisis database, saya memastikan setiap struktur tabel dan relasi data dirancang secara efisien untuk menjamin performa website tetap cepat meskipun data bertambah banyak.</p>
 				</div>
 			</div>
 			

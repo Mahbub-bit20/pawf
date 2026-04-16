@@ -25,20 +25,22 @@
 		<div class="row">
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Siapa Aku</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Siapa Saya</h5>
+					<p>Halo, saya Haidar Arif Mahbub.
+                       Mahasiswa Informatika di Universitas Nahdlatul Ulama Indonesia yang antusias dengan dunia software development dan teknologi hardware. Di waktu luang, saya mendalami arsitektur sistem, memantau perkembangan performa chipset smartphone terbaru, hingga mempelajari fenomena astrofisika. Menggabungkan ketelitian logika pemrograman dengan rasa ingin tahu yang tinggi terhadap kemajuan teknologi</p>
+			</div>
+
+			</div>
+			<div class="col-md-12 my-2 card">
+				<div class="card-body">
+					<h5 class="h5">Bisa Apa saya</h5>
+					<p>Keahlian utama saya terletak pada PHP dan Python, dengan minat khusus pada analisis database dan optimasi sistem. Di luar urusan coding, saya juga aktif mengikuti perkembangan hardware smartphone dan fenomena astronomi.</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Bisa Apa Aku</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
-				</div>
-			</div>
-			<div class="col-md-12 my-2 card">
-				<div class="card-body">
-					<h5 class="h5">Bagaimana Aku</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Bagaimana Saya</h5>
+					<p>Saya memiliki rasa ingin tahu yang besar, baik itu memecahkan error pada kode maupun mempelajari kerumitan evolusi bintang di alam semesta.</p>
 				</div>
 			</div>
 			
